@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Jatin-AI-ML
+                                                           👋 Hi, I’m @Jatin Prashar
+                                                           
 - 👀 I’m interested in ... Robotics and Innovation
 - 🌱 I’m currently learning ... AI & ML
 - 💞️ I’m looking to collaborate on ...Linkdin- Jatin Prashar
